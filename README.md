@@ -16,11 +16,11 @@ Termine is a Game engine made for your terminal/dev console and written in Vanil
 
 ## Usages
 
-[Simple file writer](https://github.com/JamesLiame/termine/blob/v0.beta.1.0/examples/helloworld.lua)
+[Simple file writer](https://github.com/humbleton-thesecond/termine/blob/v0.beta.1.0/examples/helloworld.lua)
 
-[File writer](https://github.com/JamesLiame/termine/blob/v0.beta.1.0/examples/filewriter.lua)
+[File writer](https://github.com/humbleton-thesecond/termine/blob/v0.beta.1.0/examples/filewriter.lua)
 
-[Entity test](https://github.com/JamesLiame/termine/blob/v0.beta.1.0/examples/entitytest.lua)
+[Entity test](https://github.com/humbleton-thesecond/termine/blob/v0.beta.1.0/examples/entitytest.lua)
 
 # Building and Installing
 
@@ -31,7 +31,7 @@ building/installing instructions.
 build the repository by:
 
 ```batch
-git clone https://github.com/JamesLiame/termine.git
+git clone https://github.com/humbleton-thesecond/termine.git
 cd termine\src
 ```
 
